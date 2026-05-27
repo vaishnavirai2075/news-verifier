@@ -3,7 +3,7 @@
 A production-grade multi-agent news verification system built with LangGraph, FastAPI, and Next.js.
 
 ## 🚀 Live Demo
-[Add your deployment URL here]
+https://newsverifier.up.railway.app/
 
 ## 🏗️ Architecture
 
